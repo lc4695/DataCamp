@@ -2,7 +2,8 @@ On Progress List
 - [ ] Introduction to Tableau
 - [ ] Experimental design in R
 - [ ] Supversied Learning in R:Regression
-- [ ] Introduction to Python
+- [ ] Visualizing Geospatial Data in R
+- [X] Introduction to Python
 
 Wait List
 - [ ] Buseinss Process Analytics in R
