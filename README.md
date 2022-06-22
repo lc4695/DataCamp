@@ -7,8 +7,10 @@
 ### Wait List
 - [ ] Supversied Learning in R: Regression
 - [ ] Buseinss Process Analytics in R
-- [ ] Introduction to text analysis in R
 - [ ] Visualizing Geospatial Data in R
 
 ### Completed List
 - [X] Introduction to Python
+- [X] Introduction to text analysis in R
+- [X] Introduction to SQL
+
