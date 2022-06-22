@@ -1,4 +1,5 @@
 On Progress List
+- [ ] Manipulating-Time-Series-Data-with-xts-and-zoo-in-R
 - [ ] Introduction to Tableau
 - [ ] Experimental design in R
 - [ ] Supversied Learning in R:Regression
