@@ -1,4 +1,4 @@
-### On Progress List
+### 📝 On Progress List
 |Check|Course|
 |---|---|
 |<li>- [ ] </li>|Manipulating Time Series Data with xts and zoo in R
@@ -6,14 +6,14 @@
 |<li>- [ ] </li>|Experimental design in R
 
 
-### Wait List
+### ⌛ Wait List
 |Check|Course|
 |---|---|
 |<li>- [ ] </li>|Supversied Learning in R: Regression
 |<li>- [ ] </li>|Buseinss Process Analytics in R
 |<li>- [ ] </li>|Visualizing Geospatial Data in R
 
-### Completed List
+### ✅ Completed List
 |Check|Course|Track 1|Track 2|
 |---|---|---|---|
 |<li>- [X] </li>|Introduction to Python|Data Scientist with Python| Python Fundamentals
