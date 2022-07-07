@@ -1,4 +1,4 @@
 ### Project lists
-|Status|Name|
-|---|---|
-|<li>- [ ] </li>|Modeling the Volatility of US Bond Yields
+|Status|Name|Tool|Tag
+|---|---|---|---|
+|<li>- [ ] </li>|Modeling the Volatility of US Bond Yields|R| #Data Visualization #Applied Finance
