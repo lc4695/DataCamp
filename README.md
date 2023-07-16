@@ -19,5 +19,11 @@
 |<li>- [X] </li>|Introduction to Python|Data Scientist with Python| Python Fundamentals
 |<li>- [X] </li>|Introduction to text analysis in R|Marketing Analytics with R| Text Mining with R
 |<li>- [X] </li>|Introduction to SQL|Data Analyst in SQL| SQL Fundamentals
+|<li>- [X] </li>|Intermediate SQL| | 
+|<li>- [X] </li>|Introduction to Tidyverse| | 
+|<li>- [X] </li>|Introduction to Spreadsheet| | 
+|<li>- [X] </li>|Intermediate SQL Queries| | 
+
+
 
 
